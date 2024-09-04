@@ -1,0 +1,10 @@
+table item
+        id;
+        name;
+        catalog;
+        Price
+
+teble CorruptedItem:
+        id;
+        item;	
+        reason;
