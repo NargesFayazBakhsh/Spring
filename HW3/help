@@ -1,0 +1,9 @@
+
+                           Library
+
+Get get/books/bookinfo?title=....&publisher=....
+Get get/book/{id}
+Get get/books
+Get delete/book/{id}
+Put book/{id}            json  -> in put data first delete &then add to data
+post /book/create        json
